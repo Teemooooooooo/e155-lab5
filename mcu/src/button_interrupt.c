@@ -1,7 +1,5 @@
 // button_interrupt.c
-// Josh Brake
-// jbrake@hmc.edu
-// 10/31/22
+// Ellen Yu ellyu@g.hmc.edu Oct. 5 2026
 
 #include "main.h"
 
