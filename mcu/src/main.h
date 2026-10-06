@@ -13,7 +13,8 @@
 ///////////////////////////////////////////////////////////////////////////////
 
 #define LED_PIN PB3
-#define BUTTON_PIN PA7
+#define BUTTON_PIN PA8
+#define BUTTON2_PIN PA10
 #define DELAY_TIM TIM2
 
 #endif // MAIN_H
