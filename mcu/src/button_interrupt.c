@@ -88,6 +88,10 @@ int main(void) {
         }
     }
 
+// This one does not work
+// I think the issue is with line 96 "if ((TIM2->SR) &= 1)"
+
+// I think it should work if changed to  if ((TIM2->SR) & 1)"
 
     //while(1){
     //    // if the timer is at 1 second   
