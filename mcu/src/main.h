@@ -5,6 +5,8 @@
 #ifndef MAIN_H
 #define MAIN_H
 
+#include <stdio.h>
+#include "stm32l432xx.h"
 #include "STM32L432KC.h"
 #include <stm32l432xx.h>
 
